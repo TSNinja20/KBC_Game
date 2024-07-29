@@ -2,7 +2,7 @@
 A Python-based Kaun Banega Crorepati (KBC) quiz game. Answer multiple-choice questions to win increasing amounts of money. The game ends with the first incorrect answer, allowing players to take home their last safe level of winnings. Requires Python 3.x. Perfect for quiz enthusiasts!
 
 
-Great job on creating the KBC (Kaun Banega Crorepati) game in Python! Here is a detailed documentation format for this project:
+ Here is a detailed documentation format for this project:
 
 **Kaun Banega Crorepati (KBC) Game**
 
